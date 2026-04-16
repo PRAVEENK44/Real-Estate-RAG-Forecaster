@@ -1,4 +1,4 @@
-# RAG-Driven Predictive Analytics
+# Real Estate RAG-Forecaster: AI-Driven Predictive Analytics
 
 This is a high-performance analytics platform that bridges the gap between unstructured document intelligence and structured statistical forecasting. By integrating Retrieval-Augmented Generation (RAG) with Facebook Prophet, this system provides a dual-engine approach to market analysis and asset valuation.
 
@@ -33,8 +33,8 @@ Ensure you have Python 3.10+ and [Ollama](https://ollama.com/) installed.
 Clone the repository and install the production-grade dependencies:
 
 ```bash
-git clone https://github.com/[your-username]/nexus-insight.git
-cd nexus-insight
+git clone https://github.com/PRAVEENK44/Real-Estate-RAG-Forecaster.git
+cd Real-Estate-RAG-Forecaster
 pip install -r requirements.txt
 ```
 
